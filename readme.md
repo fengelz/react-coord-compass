@@ -3,6 +3,7 @@
 ## Introduction
 
 > A react component that will point to 2 coordinates in your browser, should you ever need it.
+Example usage: https://github.com/fengelz/follow-the-mouse
 
 ## Code Samples
 
