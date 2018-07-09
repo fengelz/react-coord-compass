@@ -1,0 +1,39 @@
+{
+  "name": "react-coord-compass",
+  "version": "1.0.0",
+  "description": "A react component that will point to 2 coordinates in your browser, should you ever need it.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengelz/follow-the-mouse.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "visual"
+  ],
+  "author": "Sune Fengel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengelz/follow-the-mouse/issues"
+  },
+  "homepage": "https://github.com/fengelz/follow-the-mouse#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
