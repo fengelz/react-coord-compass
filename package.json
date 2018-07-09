@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengelz/follow-the-mouse.git"
+    "url": "git+https://github.com/fengelz/react-coord-compasss.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Sune Fengel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fengelz/follow-the-mouse/issues"
+    "url": "https://github.com/fengelz/react-coord-compasss/issues"
   },
-  "homepage": "https://github.com/fengelz/follow-the-mouse#readme",
+  "homepage": "https://github.com/fengelz/react-coord-compasss#readme",
   "dependencies": {
     "react": "^16.4.1",
     "webpack": "^2.6.1"
