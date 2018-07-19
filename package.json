@@ -1,6 +1,6 @@
 {
   "name": "react-coord-compass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react component that will point to 2 coordinates in your browser, should you ever need it.",
   "main": "build/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengelz/react-coord-compasss.git"
+    "url": "git+https://github.com/fengelz/react-coord-compass.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Sune Fengel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fengelz/react-coord-compasss/issues"
+    "url": "https://github.com/fengelz/react-coord-compass/issues"
   },
-  "homepage": "https://github.com/fengelz/react-coord-compasss#readme",
+  "homepage": "https://github.com/fengelz/react-coord-compass#readme",
   "dependencies": {
     "react": "^16.4.1",
     "webpack": "^2.6.1"
