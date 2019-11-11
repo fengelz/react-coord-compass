@@ -24,16 +24,16 @@
   },
   "homepage": "https://github.com/fengelz/react-coord-compass#readme",
   "dependencies": {
-    "react": "^16.4.1",
-    "webpack": "^2.6.1"
+    "react": ">=16.4.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-core": "^6.24.1",
-    "babel-loader": "^7.0.0",
-    "babel-plugin-transform-object-rest-spread": "^6.23.0",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.5.1",
-    "babel-preset-react": "^6.24.1"
+    "babel-cli": ">=6.24.1",
+    "babel-core": ">=6.24.1",
+    "babel-loader": ">=7.0.0",
+    "babel-plugin-transform-object-rest-spread": ">=6.23.0",
+    "babel-plugin-transform-react-jsx": ">=6.24.1",
+    "babel-preset-env": ">=1.5.1",
+    "babel-preset-react": ">=6.24.1",
+    "webpack": ">=2.6.1"
   }
 }
